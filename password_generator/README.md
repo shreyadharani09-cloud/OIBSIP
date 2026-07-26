@@ -30,7 +30,7 @@ Technologies Used:
 
  Files Included:
 
-- `password_generator.py` – Main application
+- `password_gui.py` – Main application
 - `README.md` – Project documentation
 
 
@@ -46,7 +46,7 @@ pip install pyperclip
 3. Run the program:
 
 ```bash
-python password_generator.py
+python password_gui.py
 [README.md](README.md)
 Output :
 
