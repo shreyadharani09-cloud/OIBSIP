@@ -43,7 +43,7 @@ How to Run
 
 Project Structure
 
-- "bmi_calculator.py" – Main Python program
+- "bmi_gui.py" – Main Python program
 - "bmi_records.csv" – Stores BMI history
 - "README.md" – Project documentation
 
